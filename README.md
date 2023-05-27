@@ -1,5 +1,5 @@
 # BellabeatFitnessCaseStudy
-This is a Google's Data Analytics capstone project. Done in Microsoft Excel and Microsoft SQL Server.
+Description: Bellabeat Data Analytics Capstone Project involved analyzing and deriving insights from Bellabeat's health and wellness wearable device data. Utilizing data analytics techniques, I explored patterns, trends, and user behavior to uncover valuable insights. The project aimed to identify factors influencing user engagement and provide data-driven recommendations to enhance product performance and user experience. Through data visualization and storytelling, the project showcased the power of data analytics in improving health and wellness outcomes.
 Datasets used in project are listed below:
 Dataset 1: Fitabase: https://www.kaggle.com/datasets/arashnic/fitbit
 Dataset 2: https://www.kaggle.com/datasets/damirgadylyaev/more-than-4-years-of-steps-and-sleep-data-mi-band
